@@ -70,7 +70,8 @@ class Cycling extends Workout {
   }
 }
 
-const run1 = new Running();
+// const run1 = new Running();
+// const run2 = new Running();
 
 ////////////////////////////////////
 // Application Architecture
